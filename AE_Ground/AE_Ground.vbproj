@@ -1,0 +1,881 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C3995566-E264-4EA5-9137-CB1FFF2FEFC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AE_Ground.My.MyApplication</StartupObject>
+    <RootNamespace>AE_Ground</RootNamespace>
+    <AssemblyName>AE_Ground</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>89438DA37EE04E6B63F835CBA9FBC912B22416F1</ManifestCertificateThumbprint>
+    <ManifestKeyFile>AE_Ground_9_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetZone>LocalIntranet</TargetZone>
+    <ApplicationIcon>Resources\Images\Icon\ActionEntryNew.ico</ApplicationIcon>
+    <PublishUrl>ftp://03294ad.netsolhost.com/www/ae/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://03294ad.netsolhost.com/ae/</InstallUrl>
+    <SupportUrl>http://actionentry.actiontraffic.net</SupportUrl>
+    <ProductName>ActionEntry</ProductName>
+    <PublisherName>Action Traffic Maintenance</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>296</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AE_Ground.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AE_Ground.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ActiproSoftware.Shared.Net20, Version=1.0.104.0, Culture=neutral, PublicKeyToken=36ff2196ab5654b9">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ActiproSoftware.WinUICore.Net20, Version=1.0.104.0, Culture=neutral, PublicKeyToken=1eba893a2bc55de5">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ActiproSoftware.Wizard.Net20, Version=3.0.144.0, Culture=neutral, PublicKeyToken=d00326104f1b454d">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing.Drawing2D" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActionEntryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ActionEntryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ActionEntryDataSet.vb">
+      <DependentUpon>ActionEntryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AE_mdiMain.Designer.vb">
+      <DependentUpon>AE_mdiMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AE_mdiMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Class1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clsAE_DailyProductions.vb" />
+    <Compile Include="clsAE_EquipmentInspection.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>clsAE_EquipmentInspection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="clsAE_Utilities.vb" />
+    <Compile Include="clsFIX_WebBrowserIE.vb" />
+    <Compile Include="dsAE_DataSync.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsAE_DataSync.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsAE_DataSync.vb">
+      <DependentUpon>dsAE_DataSync.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActionMail.Designer.vb">
+      <DependentUpon>frmActionMail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmActionMail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_GenericDGV.Designer.vb">
+      <DependentUpon>frmAE_GenericDGV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_GenericDGV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_HomeExpress.Designer.vb">
+      <DependentUpon>frmAE_HomeExpress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_HomeExpress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_InputBox.Designer.vb">
+      <DependentUpon>frmAE_InputBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_InputBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocumentsList.Designer.vb">
+      <DependentUpon>frmDocumentsList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocumentsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmailEquipProblem.Designer.vb">
+      <DependentUpon>frmEmailEquipProblem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmailEquipProblem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmailShelia.Designer.vb">
+      <DependentUpon>frmEmailShelia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmailShelia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquipmentUsed.Designer.vb">
+      <DependentUpon>frmEquipmentUsed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquipmentUsed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExposureDeclaration.Designer.vb">
+      <DependentUpon>frmExposureDeclaration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExposureDeclaration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenericReport.Designer.vb">
+      <DependentUpon>frmGenericReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenericReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMergeDP.Designer.vb">
+      <DependentUpon>frmMergeDP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMergeDP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPassWzd.Designer.vb">
+      <DependentUpon>frmPassWzd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPassWzd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReviewDataSync.Designer.vb">
+      <DependentUpon>frmReviewDataSync.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReviewDataSync.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdjustQtyDialog.Designer.vb">
+      <DependentUpon>frmAdjustQtyDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdjustQtyDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_AddPunchListItem.Designer.vb">
+      <DependentUpon>frmAE_AddPunchListItem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_AddPunchListItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_DP.Designer.vb">
+      <DependentUpon>frmAE_DP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_DP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_Home.Designer.vb">
+      <DependentUpon>frmAE_Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAE_Login.Designer.vb">
+      <DependentUpon>frmAE_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAE_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataSyncProgress.Designer.vb">
+      <DependentUpon>frmDataSyncProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataSyncProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmME_Wizard.Designer.vb">
+      <DependentUpon>frmME_Wizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmME_Wizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMigrateProductions.Designer.vb">
+      <DependentUpon>frmMigrateProductions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMigrateProductions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMigrateSptQty.Designer.vb">
+      <DependentUpon>frmMigrateSptQty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMigrateSptQty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReconcileDP.Designer.vb">
+      <DependentUpon>frmReconcileDP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReconcileDP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReviewTime.Designer.vb">
+      <DependentUpon>frmReviewTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReviewTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSafetyInspection.Designer.vb">
+      <DependentUpon>frmSafetyInspection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSafetyInspection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearchSimple.Designer.vb">
+      <DependentUpon>frmSearchSimple.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearchSimple.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServiceRequest.Designer.vb">
+      <DependentUpon>frmServiceRequest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmServiceRequest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubmitDP.Designer.vb">
+      <DependentUpon>frmSubmitDP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubmitDP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubmitImages.Designer.vb">
+      <DependentUpon>frmSubmitImages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubmitImages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimeReporting.Designer.vb">
+      <DependentUpon>frmTimeReporting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimeReporting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTR_UserMasterList.Designer.vb">
+      <DependentUpon>frmTR_UserMasterList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTR_UserMasterList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUH_Wizard.Designer.vb">
+      <DependentUpon>frmUH_Wizard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUH_Wizard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUploadPicDate.Designer.vb">
+      <DependentUpon>frmUploadPicDate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUploadPicDate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewReports.Designer.vb">
+      <DependentUpon>frmViewReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LdapAuthentication.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptDP1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDP1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDP3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDP3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptDP_BETA.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDP_BETA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptGRxmlData.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptGRxmlData.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptMyDPToday.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMyDPToday.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptNPIxmlData.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptNPIxmlData.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPostLength6x8.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPostLength6x8.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPostLengths.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPostLengths.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPostLengths4x6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPostLengths4x6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptUHxmlData.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptUHxmlData.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptXMLData.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptXMLData.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TimeReporting.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TimeReporting.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ToolStripDateTimeStatusLabel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AE_mdiMain.resx">
+      <DependentUpon>AE_mdiMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class1.resx">
+      <DependentUpon>Class1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActionMail.resx">
+      <DependentUpon>frmActionMail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_GenericDGV.resx">
+      <DependentUpon>frmAE_GenericDGV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_HomeExpress.resx">
+      <DependentUpon>frmAE_HomeExpress.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_InputBox.resx">
+      <DependentUpon>frmAE_InputBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocumentsList.resx">
+      <DependentUpon>frmDocumentsList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmailEquipProblem.resx">
+      <DependentUpon>frmEmailEquipProblem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmailShelia.resx">
+      <DependentUpon>frmEmailShelia.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquipmentUsed.resx">
+      <DependentUpon>frmEquipmentUsed.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExposureDeclaration.resx">
+      <DependentUpon>frmExposureDeclaration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenericReport.resx">
+      <DependentUpon>frmGenericReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMergeDP.resx">
+      <DependentUpon>frmMergeDP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPassWzd.resx">
+      <DependentUpon>frmPassWzd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReviewDataSync.resx">
+      <DependentUpon>frmReviewDataSync.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdjustQtyDialog.resx">
+      <DependentUpon>frmAdjustQtyDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_AddPunchListItem.resx">
+      <DependentUpon>frmAE_AddPunchListItem.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_DP.resx">
+      <DependentUpon>frmAE_DP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_Home.resx">
+      <DependentUpon>frmAE_Home.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAE_Login.resx">
+      <DependentUpon>frmAE_Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataSyncProgress.resx">
+      <DependentUpon>frmDataSyncProgress.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmME_Wizard.resx">
+      <DependentUpon>frmME_Wizard.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMigrateProductions.resx">
+      <DependentUpon>frmMigrateProductions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMigrateSptQty.resx">
+      <DependentUpon>frmMigrateSptQty.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReconcileDP.resx">
+      <DependentUpon>frmReconcileDP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReviewTime.resx">
+      <DependentUpon>frmReviewTime.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSafetyInspection.resx">
+      <DependentUpon>frmSafetyInspection.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearchSimple.resx">
+      <DependentUpon>frmSearchSimple.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServiceRequest.resx">
+      <DependentUpon>frmServiceRequest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubmitDP.resx">
+      <DependentUpon>frmSubmitDP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubmitImages.resx">
+      <DependentUpon>frmSubmitImages.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimeReporting.resx">
+      <DependentUpon>frmTimeReporting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTR_UserMasterList.resx">
+      <DependentUpon>frmTR_UserMasterList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUH_Wizard.resx">
+      <DependentUpon>frmUH_Wizard.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUploadPicDate.resx">
+      <DependentUpon>frmUploadPicDate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewReports.resx">
+      <DependentUpon>frmViewReports.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDP1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDP1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDP3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDP3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptDP_BETA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDP_BETA.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptGRxmlData.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptGRxmlData.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptMyDPToday.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMyDPToday.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptNPIxmlData.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNPIxmlData.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPostLength6x8.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPostLength6x8.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPostLengths.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPostLengths.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPostLengths4x6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPostLengths4x6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptUHxmlData.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptUHxmlData.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptXMLData.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptXMLData.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ActionEntryDataSet.xsc">
+      <DependentUpon>ActionEntryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ActionEntryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ActionEntryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ActionEntryDataSet.xss">
+      <DependentUpon>ActionEntryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AE_Ground_TemporaryKey.pfx" />
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ActionEntry.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Images\BG\AE_DK.png" />
+    <Content Include="Resources\Images\BG\AE_LT.png" />
+    <None Include="AE_Ground_6_TemporaryKey.pfx" />
+    <None Include="AE_Ground_7_TemporaryKey.pfx" />
+    <None Include="AE_Ground_8_TemporaryKey.pfx" />
+    <None Include="AE_Ground_9_TemporaryKey.pfx" />
+    <None Include="Resources\Images\Other\ATM_Logo_SEPARATED2.png" />
+    <None Include="AE_Ground_1_TemporaryKey.pfx" />
+    <None Include="AE_Ground_2_TemporaryKey.pfx" />
+    <None Include="AE_Ground_3_TemporaryKey.pfx" />
+    <None Include="AE_Ground_4_TemporaryKey.pfx" />
+    <None Include="AE_Ground_5_TemporaryKey.pfx" />
+    <None Include="clsAE_EquipmentInspection.xsc">
+      <DependentUpon>clsAE_EquipmentInspection.xsd</DependentUpon>
+    </None>
+    <None Include="clsAE_EquipmentInspection.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>clsAE_EquipmentInspection.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="clsAE_EquipmentInspection.xss">
+      <DependentUpon>clsAE_EquipmentInspection.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Images\Other\SatelliteBig.png" />
+    <None Include="Resources\Images\Other\homeGreenSmall.png" />
+    <None Include="Resources\Images\Other\manualEntryGreen.png" />
+    <None Include="Resources\Images\Other\transferImages2.png" />
+    <None Include="Resources\Images\Other\aeWhiteShadow.png" />
+    <None Include="Resources\Images\BG\homeTitleBar2.png" />
+    <None Include="Resources\Images\Other\timeCalendar.png" />
+    <None Include="Resources\Images\Other\transferImages.png" />
+    <None Include="Resources\Images\Other\uploadImages.png" />
+    <None Include="Resources\Images\Other\downloadImages.png" />
+    <None Include="Resources\Images\Other\ActionEntryNew.png" />
+    <None Include="Resources\Images\Icon\ActionEntryNew.ico" />
+    <None Include="Resources\Images\Other\submitPics.png" />
+    <None Include="Resources\Images\Other\sateliteDishsMALL.png" />
+    <None Include="Resources\Images\Other\picsCameraSmaller.png" />
+    <None Include="Resources\Images\Other\picsCameraSmall.png" />
+    <None Include="Resources\Images\Other\aeLogoNew.png" />
+    <None Include="Resources\Images\BG\homeTitleBar1.png" />
+    <None Include="Resources\Images\Other\imagesCategory.png" />
+    <None Include="Resources\Images\Other\picMountainSky.png" />
+    <None Include="Resources\Images\Other\gears3.png" />
+    <None Include="Resources\Images\Other\gears2.png" />
+    <None Include="Resources\Images\Other\barGraphSmall.png" />
+    <None Include="Resources\Images\Other\sateliteDish.png" />
+    <None Include="Resources\Images\Other\clockLightBlueSmall.png" />
+    <None Include="Resources\Images\Other\clockBlueSmall.png" />
+    <None Include="Resources\Images\Other\gearsLightBlueSmall.png" />
+    <None Include="Resources\Images\Other\onOffRedSmall.png" />
+    <None Include="Resources\Images\Other\homeBlueSmall.png" />
+    <None Include="Resources\Images\Other\gearsBlue.png" />
+    <None Include="Resources\Images\Other\locationbar_erase.png" />
+    <None Include="Resources\Images\Other\dataSyncBtnImage.png" />
+    <None Include="Resources\Images\Other\dpInputOutput.png" />
+    <None Include="Resources\Images\Other\gearsBrushedAlum.png" />
+    <None Include="Resources\Images\Other\refreshSilver.png" />
+    <None Include="Resources\Images\Other\imageResizer.png" />
+    <None Include="Resources\Images\Other\cautionSawHorse.png" />
+    <None Include="Resources\Images\Other\puzzlePieceBlue.png" />
+    <None Include="Resources\Images\Other\arrowsTransferBlue.png" />
+    <None Include="Resources\Images\Other\submitDataSync.png" />
+    <None Include="Resources\Images\Other\manualEntryBlueM.png" />
+    <None Include="Resources\Images\Other\Upload.png" />
+    <None Include="Resources\Images\Other\Download.png" />
+    <None Include="Resources\Images\BG\progressTitleBar2.png" />
+    <None Include="Resources\Images\BG\progressTitleBar1.png" />
+    <None Include="Resources\Images\Other\ActionEntryLogoLM.png" />
+    <None Include="Resources\Images\Other\clock_1.png" />
+    <None Include="Resources\Images\Other\EarthUploadNew.png" />
+    <None Include="Resources\Images\Other\InfoIcon.png" />
+    <None Include="Resources\Images\Other\TimeClock.png" />
+    <None Include="Resources\Images\Other\BarGraph.png" />
+    <None Include="Resources\Images\Other\GearsWindow.png" />
+    <None Include="Resources\Images\BG\manEntry.png" />
+    <None Include="Resources\Images\BG\uploadRSS.png" />
+    <None Include="Resources\Images\BG\utiltyHit.png" />
+    <None Include="Resources\Images\BG\time.png" />
+    <None Include="Resources\Images\BG\info.png" />
+    <None Include="Resources\Images\BG\dp2.png" />
+    <None Include="Resources\Images\Icon\legend3.ico" />
+    <None Include="Resources\Images\BG\dp.png" />
+    <None Include="dsAE_DataSync.xsc">
+      <DependentUpon>dsAE_DataSync.xsd</DependentUpon>
+    </None>
+    <None Include="dsAE_DataSync.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsAE_DataSync.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="dsAE_DataSync.xss">
+      <DependentUpon>dsAE_DataSync.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Images\BG\none.jpg" />
+    <None Include="Resources\Images\BG\UnderConstructionStripes.jpg" />
+    <None Include="Resources\Images\BG\CautionBoardInterstate copy.jpg" />
+    <None Include="Resources\Images\BG\AE_LT_2_48x48.png" />
+    <None Include="Resources\Images\Icon\AE_Main.ico" />
+    <None Include="Resources\Images\BG\GrayFade_UPRIGHT.png" />
+    <None Include="Resources\Images\BG\LightBluePipeFade.jpg" />
+    <None Include="Resources\Images\BG\SilverBrushedHorizontal.jpg" />
+    <None Include="TimeReporting.xsc">
+      <DependentUpon>TimeReporting.xsd</DependentUpon>
+    </None>
+    <None Include="TimeReporting.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TimeReporting.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="TimeReporting.xss">
+      <DependentUpon>TimeReporting.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.1.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 1.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.3.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic Power Packs 3.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Audio\" />
+    <Folder Include="Resources\Video\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

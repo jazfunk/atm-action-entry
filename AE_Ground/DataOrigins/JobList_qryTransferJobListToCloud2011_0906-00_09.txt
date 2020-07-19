@@ -1,0 +1,745 @@
+"jobNum","LOCATION","projectNum","stateNUM","cardNUM","Active"
+"0455","M-50 from Barnum St to Lewis Ave","BIO4 58032","50651A",,0
+"0456","M-53 from 18 Mile Rd to Utica Rd","ANH 50011","47197A","4590",0
+"0457","I-75 & I-696 various locations","NHG 63172","74222A",,0
+"0458","M-37 at Peach Ridge","STH 41033","74527A",,0
+"0459","NB I-75 From M-46 to I-675","73111","74264",,0
+"0460","M-59 & Adams interchange in the cities of Rochester & Auburn Hills","NH 63043","77201A","4472",0
+"0461","M-53 under 22 Mile Rd","MER 50013","78523A",,0
+"0054","On M-59 from Oak Grove Road easterly to Whitmore Lake Road","NHG 84917","87256A",,0
+"0055","US-27 at M-57, Washington Township, Gratiot County","NH 29011","43893A",,0
+"0056","I-94 northerly to I-94BL in the city of Battle Creek, Calhoun County","IMG 13033","46986A",,0
+"0057","TODS Program (Continuation)",,,,0
+"0058","On US-24 from Long Lake northerly to Square Lake Road","NH 63031","45714A",,0
+"0059","M-15 from I-75 northerly to Genesee County Line in Independence, Brandon and Groveland Townships, Oa","M 63071","49287A",,0
+"0060","M-21 & M-21 Connector/Genesee County","STG 25081","47004A",,0
+"0061","M-20 & US-10 Business Rte.","STG 56051","47002A",,0
+"0062","Curtisville & Summers Road From M-33 East , Oscoda County","68020","47725A",,0
+"0063","US 131 in Kent County","M 411132","38209A",,0
+"0064","I-94 Eastbound Exit Ramp to Oakwood Blvd. I-75 Exit Ramp to M-85, Wayne County","IM 82022","51868A",,0
+"0065","I-696, Northwestern Hwy. & Telegraph","IM 63101","38103A",,0
+"0066","Various Roads in Calhoun County","M 13016","52532A",,0
+"0067","M-63, Berrien County","BHT 11053","47965A",,0
+"0068","I-69 from M-24 easterly to M-19, in Lapeer & St. Clair Counties","IMG 44044","46981A",,0
+"0069","Rochester Road & I-75",,,,0
+"0070","Sign Up-grading on M-142 from M-53 easterly to M-25, Huron Co.","STG 32022","52104A",,0
+"0071","Blue Water Bridge/Nexus Lane Project",,,,0
+"0172","On M-20 from US-31 easterly to Remus, On US-31BR  in Muskegon, Mecosta, Oceana & Newaygo Counties","STG 54022","52197A",,0
+"0173","South Beltline Job, Grand Rapids","NH 41064","33333A",,0
+"0174","M-19 in St. Clair and Macomb Counties","STG 50091","52101A",,0
+"0175","Misc. Locations in Various Counties","NHG 84916","53182A",,0
+"0176","US-131 BR and old 131, Various Counties","STG 54011","52198A",,0
+"0177","M-46, M-52 to Saginaw City Limits","NH 73062","45840A",,0
+"0178","M-53 from south of 18 Mile to North of 27 Mile, Macomb County","NH 50013","45729A",,0
+"0179","On US-23 from M-59 North, Hartland & Tyrone Twps. Livingston County","NH 47014","43499A",,0
+"0180","I-96 from I-69 to US-127, Clinton, Eaton & Ingham Counties","IMG 19022","46980A",,0
+"0181","I-75 from Monroe North to Sibley Rd. Wayne County","IMG 82191","53357A",,0
+"0182","Cantilever Sign Upgrade, Eaton, Ingham & Monroe Counties","NHG 84916","53174A",,0
+"0183","Overhead Sign Found. Replacement, Wayne County","NHG 84917","53173A",,0
+"0184","M-5, I-96 & I-696 Under Haggerty Road, Oakland County","BHN 63022","50589A",,0
+"0185","M-50 Monroe County","ST 58042","45642A",,0
+"0186","M-24, Intersection Improvements, Oakland County","HPP 63112","52586A",,0
+"0187","Big Beaver","EDCF 63459","49848A",,0
+"0188","I-75 North","IM 63174","48318A",,0
+"0189","I-75, Eureka Road Ramps","MG 82191","44105A",,0
+"0190","I-94 Freeway Sign Upgrading, Romulus, Taylor, Wayne County","82022","46985A",,0
+"0191","US-10 at Eastman Road Interchange, Midland, Midland County","HPP 56044","31290A",,0
+"0192","M-33, Rose Twp., Ogemaw County","65052","50733A",,0
+"0193","NB I-475 from I-69 North t0 I-75.","25132","50882A",,0
+"0194","I-75, Bay County","IM 09034","46575A",,0
+"0195","Cherry Creek Road, Marquette County","EDDF 52555","53204A",,0
+"0196","Railroad Crossing, Imlay City","STR 82092","55543A",,0
+"0197","I-75 in Soo Township, Sault Ste. Marie, Chippewa County","M17034","53932A",,0
+"0198","Big Beaver, Kensington to Cunningham, Oakland County","EDCF 63544","56804A",,0
+"0199","Traffic Control on Jefferson","82111","54802A",,0
+"0202","US-131 from n. of M-46 to Osceola, Mecosta & Montcalm Counties","NHG 59012","55313A",,0
+"0203","Van Born Road, Wayne County","82457","51069A",,0
+"0204","I-96, Lansing","NH 23152","45640A",,0
+"0205","US-131","NH 83033","34682A",,0
+"0206","I-75 from Goddard Road North, Wayne County","BHN 82194","45699A",,0
+"0207","M-43 from Dobie Rd. to Cornell Rd., Ingham County","NH 33082","31328A",,0
+"0208","US-131, Osceola & Wexford Counties","NHG 67016","55314A",,0
+"0209","M-46 from US31BR east to Gratiot west county line","STG 61023","55137A",,0
+"0210","I-94 over Inkster Road, Romulus & Taylor, Wayne County","BRI 82002","48345A",,0
+"0211","M-49 Litchfield","STT 30012","51598A",,0
+"0212","I-196, Grand Rapids, Kent County","IM 41029","45010A",,0
+"0213","M-91 in Greenville, Otisco, Eureka, Montcalm, Pine and Cato Twp.  Montcalm and Ionia Counties","STG 59032","55138A",,0
+"0596","Rails to Trails Bike Path","STE 63459","58206A",,0
+"9737","I-75 & M-84 in Bay County West Michigan Recycle prime contractor","DPN 03034","38980A",,0
+"9738","I-96 & US-23 in Oakland Co.","IM 63022","34479A",,0
+"9739","I-96 & Wadhams Rd.  Toebe","BHI 77023","38802A",,0
+"9740","M-53 from 31 Mile Rd to 34 Mile Rd.","DSTT 50012","35997A",,0
+"9741","Bluewater Plaza part 3 reconfiguration","M77111","44162A",,0
+"9742","City of Bay City","111-97H97","87256",,0
+"9743","I-69 in East Lansing Prime K & R 616-949-0800","DNG 33043","34489A",,0
+"9744","Crooks Rd. between Square Lake and South Blvd.",,,,0
+"9745","Mariners Point Shopping Center Crocker & Metro Parkway",,,,0
+"9746","Jackson rd in Ann Arbor",,,,0
+"9747","U.S. - 23 & Willis & Carpenter roads",,,,0
+"9748","Ferris St. & U.S.-31 Nagel Contracting prime P.O. #",,"35884A",,0
+"9749","Mound Rd. and I-696","IM 50061","34989A",,0
+"9751","M-52 in Saginaw County","STG 73031","44026A",,0
+"9752","I-75 & Rochester Rd.","IM 63174","17632A",,0
+"9753","New Haven Highschool",,,,0
+"9754","M-25 from I-75 to Tuscola co. line.","NHG 09042","44027A",,0
+"9755","Misc. roads in Ontongon, Baraga and Houghton counties","STG 66042","40236A",,0
+"9756","BR U.S. 27 in the City of Alma, and St. Louis","STG 29031","40241A",,0
+"9757","Misc. locations in Metro area, Rockwell is Prime Contractor PO # 9515-009-8223","CM 84909","37040A",,0
+"9758","Blue Water Bridge P.O. Number 22451-414056",,,,0
+"9759","Jefferson Ave. between 9 & 10 mile.","P.O 631-12",,,0
+"9760","TRW Test track  Van Dyke between 14 & 15 Mile Rds. PO # 12583 (must be on invoice)","12583",,,0
+"9761","Sign Structure replacement in Berrien County","NHG 11057","44766A",,0
+"9762","T.R.W. Plant on Van Dyke",,,,0
+"9801","Misc. locations for MI. Logo program. Contination of 9601",,,,0
+"9802","US 10 from Bay City to Clare","IMG 56044","40092A",,0
+"9803","M-59 in the City of Pontiac","BHN 63043","40504A",,0
+"9804","Misc locations Tods program",,,,0
+"9805","Kalamazoo County Parks & Rec 2900 Lake St.","PO 41992",,,0
+"9806","I-75 From Fort St to Grand River in the City of Detroit","IM 82194","36005A",,0
+"9807","Flint Metal Fabricating Plant General Motors PO must appear on invoice","CXS26595",,,0
+"9808","M-22 in Benzie and Manistee Co.","STG 10012","44940A",,0
+"9809","I-94 City of Battle Creek","PO 1814",,,0
+"9810","Haggerty & Ford Road  @ new Super K Mart","9708-9538",,,0
+"9811","I-75 & M-32 Interchange in Gaylord","IMS 69013","38899A",,0
+"9812","M-26 from US-41 to Copper Harbor","STG 42021","45576A",,0
+"9813","M-22 in Grand Tarverse Co.",,,,0
+"9814","Cross Buck Repalcement in the City of Detroit","MRR 82099","47242A",,0
+"9815","US 27 BR on the City of Clare PO # 8505","STT 18031","31329A",,0
+"9816","US 31 & M 120","61012","32989A",,0
+"9817","Misc. Schools in the Utica School district",,,,0
+"9818","Jackson Road in Ann Arbor",,,,0
+"9819","I-75 Exit University connecter","IM 63172","46359A",,0
+"9820","M-39 from Lafayette St to Pinecrest in Allen Park & Lincoln Park","IMG 82192","40099A",,0
+"9821","M-54 from I-75 to M-83 in Genesee and Saginaw Counties","STG 25072","44905A",,0
+"9822","M-13 from Genesee County Line to M-84 in Saginaw and Bay Counties","NHG 73051","45167A",,0
+"9823","I-75 & Chrysler World Headquaters",,,,0
+"9924","I-75 from I-375 to Grand Trunk Western RR","IM 82194","38100A",,0
+"9925","M-120 in Muskegon & Newaygo Counties","STG 61012","46999A",,0
+"9926","M-82 in Newaygo County","STG 62041","47001A",,0
+"9927","US-127 in Lenawee & Hillsdale Counties","NH 46011","38032A",,0
+"9928","I-75 in Saginaw County","M73111","45132A",,0
+"9929","69.04 km of sign upgrading on I-196","IMG 11111","47378A",,0
+"9930","I-696","IM 63103","34121A",,0
+"9931","M-39 US 12 Wayne County","NH 82192","32397A",,0
+"9932","M-46/TUSCOLA CO.","STH 79041","46948A",,0
+"9933","I-96 Oakland County","63022","38105",,0
+"9934","M-43 Eaton County","STH 23041","46705A",,0
+"9935","M-65 Iosco County","M 35012","45780A",,0
+"9936","M-57, Montcalm County","STUT 59021","45163A",,0
+"9937","Blue Water bridge in Port Huron","I77111","20425A",,0
+"9938","I-94 in Jackson","IM 98 81","34117A",,0
+"9939","M-99/M-50 Hamlin Twp. Eaton County","STH 23091","46706A",,0
+"9940","M-18 from US-10 northerly  to south of Glidden Road in the Counties of Midland and Gladwin","M 56011","45414A",,0
+"9941","US-131, Wayland, Allegan County","MO3112","46240A",,0
+"9942","Logo Program (Continuation)",,,,0
+"9943","Daimler Chrysler Museum",,,,0
+"9944","US-131","NH41133","33914A",,0
+"9946","M-553 northerly to Marquette South  City Limits and on M-94 easterly to US-41 in Marquette County","M 52900","50385A",,0
+"9947","Bus Stop Signs and Poles in the City of Flint",,,,0
+"9948","I-75 from Graham Avenue Ramp northerly to South of US-2, St. Ignace, Mackinac County.","IM 49025","33799A",,0
+"9949","Portage Mi","39405","48750A",,0
+"9950","Freeway sign upgrading on I-94 from Calhoun east county line easterly to Washtenaw west county line,","IMG 38101","40091A",,0
+"9951","I-69 from US 127 easterly to Moorish Road in Clinton, Shiwassee and Genesee Counties.","IMG 19042","48355A",,0
+"9952","I-75 under 10-12 Mile Roads","BHI 63174","48404A",,0
+"9998","Hill Road I-75 Northbound","25131","53520A",,0
+"9999",,,,,0
+"0451","I94 & I-69","ABHI 77111","51507A",,0
+"0452","I-94/I-96","ABHN 82023","51493A",,0
+"0453","M-29, Macomb & St Clair County","STG77051","72636A",,0
+"0454","I-75 from M-57 to Birch Run Creek","BI04 73171","75175A","4356",0
+"0215","US-27, Gratiot, Isabella, Clare, Crawford & Roscommon Counties","NHG 29011","59439A",,0
+"0216","I-75","IM 25032","45899A",,0
+"0217","I-94 from 8 Mile to Metro Parkway, Macomb County","BRI 50111","43941A",,0
+"0218","I-96 in Kent County","IMG 41025","55315A",,0
+"0219","I-96 from Ionia/Clinton County Line to Wacusta Road","IMG 19022","58871A",,0
+"0220","Auburn Hills, Farmington Hills, Southfield","NHG 84917","60528A",,0
+"0222","Non-freeway sign upgrading on US-23 from Alpena south to Presque Isle","STG 04031","58368A",,0
+"0223","Non-freeway sign upgrading on M-115 from Clare west to M-37","STG 67051","58497A",,0
+"0224","US-23 North to Plymouth Rd. Interchange to M-14/US23 Junction, Washtenaw Co.","CM 81074","53494A",,0
+"0225","M-53 in Romeo, Washington & Bruce Twps., Macomb County","NH50015","46273A",,0
+"0226","McKinley road, Mio","FFH 68042","46262A",,0
+"0227","US-24 from M-102 to M-59, M-10 to I-696/US-24, M-l to I-696 and I-696 to M-1, Oakland County","NHG 63031","72307A",,0
+"0228","M-120, N. Muskegon","STP 61012","45801A",,0
+"0229","M-28, Alger County","STG 02041","58494A",,0
+"0601","Logos Program (Continuation)",,,"4746",0
+"0614","TODS Program (Continuation)",,,,0
+"0330","I-94 Bridges","BRI 77111","51508A",,0
+"0331","I-696/Middlebelt","NH63101","51480A",,0
+"0332","I-75 from Carpenter to 8 Mile Road, Wayne County","AHN 82252","56106A","4155",0
+"0333","I-96, Oakland County","63022","55798A",,0
+"0334","I-94, Kalamazoo and Battle Creek","NHG 84915","60534A",,0
+"0335","Signs in Branch & Calhoun Counties","BHI 13073","50295A",,0
+"0336","I-94 and Schaefer, Dearborn, Wayne County","82022","58150",,0
+"0337","I-94, Detroit, Wayne County","IMG 82023","53295A",,0
+"0338","West Grand Blvd. Bridge Replacement, Wayne County","AIM 82194","60076A",,0
+"0339","US-12 Michigan Avenue, Dearborn, Wayne County","82062","47064A","4512",0
+"0340","I-75 in St. Ignace Twp. Mackinac County","AIM 49025","60294A",,0
+"0341","M-65 From E of Camp Road to No. of Pine Acres Rd.","ASTT 35012","49037A",,0
+"0342","Sign Upgrading on I-94, from Kalamazoo Co. Line to Jackson County Line","IMG 13081","58877A",,0
+"0344","M-19 at 26 Mile Road, Macomb County","CM 50092","59186A",,0
+"0345","US-131, Grand Rapids, Kent County","41131","74213A",,0
+"0346","I-696 from M-10 to Dequindre, Oakland County","63102","58880A",,0
+"0347","I-196 from Ottawa County Line to I-96","41029","58870A",,0
+"0348","I-96, 68th Avenue to 16th Avenue","70063","50804A",,0
+"0349","M-97 from M-3 to M-102, Detroit","82171","72634",,0
+"0450","US-23 and M-59 Interchange Bridges","ANH 47082","34519A","4321",0
+"0100","Federal Forest Hwy. 12, Oscoda County","FFH 68042","46263A",,0
+"9311","I-375 & I-75 in the city of Detroit","IM 82111","30614A",,0
+"9432","US-23 in Standish","DPN 06071","35094A",,0
+"9433","East & West bd I-696 from I-75 to Gratiot.","IMG 50061","34256A",,0
+"9437","M-106 in Jackson Co.","STG 38051","35057A",,0
+"9439","M-18 in Roscommon Co.","STTG 65011","34320A",,0
+"9442","US-127 in Jackson Co.","DPN 38111","33778A",,0
+"9443","I-94 in Jackson & Washtenaw Co.","IMG 81104","36480A",,0
+"9446","I-75 Reast Area In Flint","NHI 25032","33289A",,0
+"9547","I-75 From Squirrel RD to 8 Mile","IMG 63174","28671A",,0
+"9548","I-94 & I-696 Interchange.","IM 50062","36001A",,0
+"9549","I-69 Buisness Loop in Lansing","STG 23012","35053A",,0
+"9550","16 Mile Road in Troy","ANH 63459","36384A",,0
+"9551","US-31 & M-45 in Ottawa Co.","NHS 70014","34982A",,0
+"9552","US-27 (north job) Clinton Co.","NH 19034","17073A",,0
+"9553","US -31 IN BERRIEN SPRINGS","BRT 11052","26616A",,0
+"9556","Lake Orion Schools",,,,0
+"9557","M-55 in Ogemaw & Iosco Counties","STTG 35022","37661A",,0
+"0594","Temp Wood Posts for Give 'Em A Brake","25031","75247A",,0
+"9558","US-45 In Gogebic & Ontonagon Counties","STTG 66012","37655A",,0
+"9560","I-94 B.L. in Marysville with Horace Body Cons.","M 77031","34659A",,0
+"9561","Rosa Parks & West Grand Blvd. over the Lodge","NH 82112","37176A",,0
+"9562","M-140 in South Haven","STG 80900","34835A",,0
+"9563","Hill Rd. in Genesee County","EDCF 25544","37628A",,0
+"9564","M-43 in Lansing","NH 33082","32384A",,0
+"9565","I-75 Scales in Monroe","Im 58151","35893A",,0
+"9566","I-96 Over Thornapple river","IM 41024","34842A",,0
+"9567","Calhoun County Intersection upgrade","SLG 13900","38964A",,0
+"9568","US-27 in Gratiot and Isabella Counties","NHG 29011","37908A",,0
+"9569","Blue Water bridge part II","ID 77111","37291A",,0
+"9570","Auburn Hills Contract A & Bald Mt. Rd., Tienken Rd",,,,0
+"9571","Joy Rd. & Newburg Rd.",,,,0
+"9572","13 Mile road & Van Dyke",,"32477A",,0
+"9573","M-11 & M-44 in Kent & Ottawa Counties","NHG 41061","37653A",,0
+"9574","R.R. Tracks on Palmer Rd. East of St. Clair Hwy. in the city of St. Clair",,,,0
+"9602","Installing LOGO signs at misc. interchanges.",,,,0
+"9604","Davison Freeway in the City of Detroit and Highland Park","NH 82103","30136A",,0
+"9606","I-75 & North Holly Road","EDA 25131","37720A",,0
+"9607","I-94 & 23 Mile","IM 50112","36004A",,0
+"9608","Hamlin Rd. Between Adams & Crooks Rd.","EDA 63522","31186A",,0
+"9609","24th Street & Grand River over I-94 in Detroit","BHI 82023","38580A",,0
+"9613","Kraft Ave (28th Street), Kent County. For Milbocker Construction","BHI 41024","38914A",,0
+"9614","U.S.-31 and M-37 Grand Traverse County prime Elmers Crane and Dozer","NH28012","37693A",,0
+"9618","Misc. Railroad crossings in Tuscola Country","STR 79900","37698A",,0
+"9619","Misc. Rail Road Crossings in Ottawa County.","MRR 70900","41039A",,0
+"9621","Misc. locations in Metro area, Rockwell is Prime Contractor","CM 84909","37040A",,0
+"9624","Village of Caro for Dans Excavating.","ST 79052","01092A",,0
+"9725","Romeo Proving Grounds",,,,0
+"9726","M-59 & Grand River","EDAF 47082","36109A",,0
+"9727","M-96  Spartan Barricade","13131","31321A",,0
+"9728","City of Detroit Marina",,,,0
+"9729","Misc. Locations Districts 1 & 2","NHG 84901","39592A",,0
+"9730","M-57 & US-27 Nashville Construction PO # 1170","STH 29011","40064A",,0
+"9731","US-27 in Dewitt and Olive Twp.s, Clinton County","NH 19033","33576A",,0
+"9732","M-37 in Grand Rapids Kaminga & Roodvetts Prime",,"34695A",,0
+"9733","Blue Water Bridge Plaza Reconstruction Phase 2","M77111","37293A",,0
+"9734","Sign upgrade on US-41, M-94, M-28 in Marquette County","STG 52043","39887A",,0
+"9735","Bike path in the city of Richmond",,,,0
+"9736","U.S. 10  C.A. Hull prime","09101","39624",,0
+"0462","Franklin Rd City of Southfield",,,,0
+"0463","Various Locations in Metro Detroit - Temp Signing","Ryder Cup",,,0
+"0464","Eight Mile between M-10 & Greenfield","82142","53675",,0
+"0465","M-39 Lafayette to Porter","ANH 82192","53168A",,0
+"0466","Novi Rd & Ten Mile Oakland County","EDCF 63544","79118A",,0
+"0467","Between Gleason Street and Beech Street","50091","75930A",,0
+"0468","Grand River between 8 Mile and Telegraph","ANH 82121","47069A",,0
+"0469","US-127 from I-96 to I-69","NHG 33045","58879A","4445",0
+"0470","I-75 Southbound from M-15 to Oakland County Line","BI04 63173","45718A","4473",0
+"0471","I-75BL at Square Lake/Opdyke Rd","63111","51482A","4474",0
+"0472","M-85 North of Schaefer Hwy to Oakwood Blvd","EDA 82703","80012A","4634",0
+"0473","US-131 and M-11","BHN 41131","53766A","4552",0
+"0474","I-696 from I-96 to US-24","IMG 63101","76065A","4504",0
+"0475","I-69 from the State Line to Eaton/Calhoun County","IMG 13073","76228A","4506",0
+"0476","I-96 Livingston County","IMG 47065","76195A",,0
+"0477","I-475","IMG 25132","75966A","4505",0
+"0478","M-1 from Winchester St to Tuxedo Ave","ANH 82131","60442A",,0
+"0579","M-52 from Jasper to US-223","BI04 46071","43521A",,0
+"0580","Catholic Central High School","01-777",,,0
+"0581","Washington Blvd over M-10","BHN 82111","75706A","4615",0
+"0582","I-196 over I-94 Berrien County","ABRI 11111","50793A","4629",0
+"0583","M-21 at Pettis","STH 41043","76378A",,0
+"0584","I-496 Eaton County","IM 23081","53259A",,0
+"0585","I-94 BL in Albion","HPP 13083","53296A","4630",0
+"0586","I-96 from M-39 to Roosevelt","AIM 82123","52803A","4542",0
+"0587","US-131 from Ann St to North Park","ANH 41131","45811A","4539",0
+"0588","M-50 Left turn lane at Henedee Rd.","BHN 38131","53256A","4628",0
+"0589","SB I-275 ramps at M-15 and M-153","STH 82292","76041A",,0
+"0590","US-131Structure","BHN 41131","51903A","4631",0
+"0591","I-96 from 28th St to Thornapple","BI04 41024","45271A","4577",0
+"0592","I-75 south of US-2 to north of Portage St","AIM 49025","75291A","4576",0
+"0593","I-696 Service Drives","MG 50061","80009A",,0
+"0595","M-59 over Dequindre Rd and Ryan Rd","BHN 50023","80935A",,0
+"0597","Ferndale Bike Path",,,"4647",0
+"0598","Stoney Lake Hills of Oxford","904108","904120",,0
+"0599","25 Mile and Hayes Rd. Roundabout.","132-421",,,0
+"0502","US-24 from Orchard Lake Rd to Elizabeth Lake Rd","NH 63052","78736A",,0
+"0503","River Ave from Pine Ave to Douglas Ave","STUL 70414","56410A",,0
+"0504","Lotz Rd","37-04-289","46588",,0
+"0505","9 Mile Rd Reconstruction",,"G05132A",,0
+"0506","I-94 Rest Area near Chelsea","IM 81104","55789A","4719",0
+"0507","Auburn Hills Municipal Parking Lot","PO 5009-AA",,,0
+"0508","Griswold from Main to Baseline","82457","81248A",,0
+"0509","Turkeyville Rest Area I-69","13074","72458",,0
+"0510","Brush Park Detroit","DGC 01","05121",,0
+"0511","21 Mile and Card Rd",,,,0
+"0512","Lee Rd, East of US-23","05-023",,,0
+"0513","Bridge Conn on Telegraph","82052","48609A",,0
+"0515","M-29 Marine City","77052","50531A",,0
+"0516","Russell Rd & M-31, Muskegon County PO # 7682","61075","44548A",,0
+"0517","Bridge Rehab on I-94 over I-75, 14 Mile Rd and I-375","BHI 82111","79778A",,0
+"0518","M-85 from Oakwood Blvd to Fort St","MG 82073","80013A","4782",0
+"0519","Intersection of M-52 & Pleasant Lake Rd","CM 81012","81719A",,0
+"0520","I-69 from A Drive North to I-94","IM 13073","60522A",,0
+"0521","Ypsilanti Cross Street improvements","PO 15422",,,0
+"0522","M-91 and M-46 in Lakeview","STH 59043","76377A",,0
+"0523","M-52 from M-50 to US-12","ST 46074","45676A",,0
+"0524","M-25 from Hancock St to St Clair County Line","NHG 77033","79382A","4724",0
+"0525","US-31 in Antrim and Charlevoix Counties","NHG 84912","79157A","4709",0
+"0526","M-66 in Antrim and Charlevoix Counties","STG 05051","79120A",,0
+"0527","M-88 from US-131 to US-31","STG 05031","79148A",,0
+"0528","M-66 from Lincoln Ave to Ionia City Limit","ST 34033","56705A",,0
+"0529","Blue Water Bridge PO # 850435","77111","59631A",,0
+"0530","Square Lake & Franklin",,,,0
+"0531","I-696  5 Bridge Rehabs on Misc Structures","IM 50062","78634A",,0
+"0532","M-15 at the I-75 Interchange","BHI 63172","51497A",,0
+"0533","I-75 from Otsego County to Mackinaw City","IMG 84912","78772A","4718",0
+"0534","M-39 under Rotunda Ave and Paul Ave","BRO 82192","51514A","4784",0
+"0535","142nd Ave, Allegan County","PO 7685",,,0
+"0536","Gratiot Streetscape","82072","81205A",,0
+"0537","Rochester and Tienken Rd Improvements","201284",,,0
+"0538","I-75 from the Mackinac Bridge to the International Bridge","IMG 84911","78735A","4722",0
+"0539","M-50 in Tecumseh","STE 46082","73828A",,0
+"0540","Big Beaver Rd","STU 63544","83672A",,0
+"0541","Northbound Woodward between I-75 and I-94","MITSC",,,0
+"0542","M-85 over I-75","BTI 82191","60337A",,0
+"0643","M-47 from Highland Dr to US-10","BI06 73075","60474A","4788",0
+"0644","Woodward, I-75-Mack Area","PO# 2533",,,0
+"0645","Fort Street","MITSC",,,0
+"0665","Lee Rd, West of US-23","47013","46289",,0
+"0646","I-75 from Dixie Hwy to I-275","IM 58152","79898A",,0
+"0647","M-125","BHT 58071","53258A",,0
+"0648","Livernois Ave from McNichols to Eight Mile","EDCF 82544","84857A",,0
+"0649","M-10 from Beck Rd to Lahser Rd","NH 63081","45715A",,0
+"0650","Misc work on I-696/M-10","NH 63101","54301A",,0
+"0651","M-10 from Beck Rd to Lahser Rd and I-696 at Franklin","NH 63081","84759A","4790",0
+"0652","Pavement Marking on M-10 from Beck Rd to Lahser Rd","ST 63081","84760A",,0
+"0653","I-96 from 16th Ave to Bristol Ave","BI06 41026","53377A","4822",0
+"0654","6 Bridges on I-196","IM 41027","51881A",,0
+"0655","M-34 from M-156 to Hazen Creek Bridge","46041","56981A",,0
+"0656","I-69 from Center Rd to M-15","ST 25084","56984A","4802",0
+"0657","M-81 over I-75","BHI 73111","77903A","4895",0
+"0658","I-94bl and I-94","BIO6 77111","45758A","4816",0
+"0659","I-696 and M-10 temp signing",,,,0
+"0660","Haggerty Rd","PO# 15723","Attn: Dan",,0
+"0661","I-69 and I-94","IM 77023","59637A",,0
+"0662","For HSC M-59 between Ryan & Opdyke","63043","76286A",,0
+"0663","Oakland St in Holly","STUL 63477","84401A",,0
+"0664","I-75 from M-134 to Mackinac County Line","HPSL 49025","50746A","5086",0
+"0666","US-10 BR","NH 56023","56966A",,0
+"0667","Joslyn over Grand Trunk RR and Squirrel Rd over I-75","BHI 63172","77949A",,0
+"0668","M-53 and 27 1/2 Mile Rd","MG 50013","83531A",,0
+"0669","U of M CVC",,,,0
+"0670","US-23 and White Lake Rd","NH 47014","81587A","4841",0
+"0671","Bridge Rehab on 7 Structures on I-96 and I-75","M 63022","84578A",,0
+"0672","I-75 Monroe County","58151","72832A",,0
+"0673","I-94 Sound Wall from Coleman St to Harris Rd","M 81063","80842A",,0
+"0674","I-69/I-94","PO# 6988",,,0
+"0675","Greektown Casino","315126-300","PO# 301",,0
+"0676","Troy High School","PO# 5008-T",,,0
+"0677","Livingston County Airport","PO 04-905-014",,,0
+"0684","US-127 Ingham County","NHG 33031","80651A",,0
+"0678","M-66/I-96 for GAB","PO#",,,0
+"0679","I-75 West Branch/Grayling","IMG 84911","78793A",,0
+"0680","5th/3rd Bank","PO# 055880",,,0
+"0681","Auger M-14 for HSC",,,,0
+"0682","I-94 over US-127","M 38101","86564A","4883",0
+"0683","Baker Rd over I-94","M 81104","48847A",,0
+"0685","US-127 Roscommon","NHG 72013","80556A","5054",0
+"0686","I-75 from Birch Run to Dixie Hwy","BT01 73171","75246A","4926",0
+"0687","Detroit Trailblazers for MITSC","MITSC",,,0
+"0688","I-75 and Adams Car Pool Lot","PO","591N6207282",,0
+"0689","I-69 GAB sign removals","PO 374466",,,0
+"0690","Woodward from 8 Mile to Quartron Rd","NHG 63051","84562A","4930",0
+"0691","I-75/US23 Saginaw to Arenac Counties","IMG 84914","78755A","4933",0
+"0692","Woodward from Quarton Rd to Wide Track","NH 63051","55659A",,0
+"0693","US-23 from the state line to Genesee County","NHG 84916","78736A","4937",0
+"0694","Fort Gratiot Bike Path","PO# 6005-T",,,0
+"0695","I-96 and Michigan Ave","82124","60077A",,0
+"0696","Sibley & US-24","PO# NCB-BT",,,0
+"0697","I-75 from New York Central RR to Topinabee Mail Rt.","BIO6 16091","59468A","5079",0
+"0698","Joseph Campau - Detroit","82457","88366A",,0
+"0699","M-10 from Jefferson to Greenfield","HPSL 82112","45681A","4960",0
+"0703","M-59 in the city of Howell","ST 47082","48762A",,0
+"1101","Logos Program (Continuation)",,,"5383, 5609, 5815",1
+"1102","TODS Program (Continuation)",,,,1
+"0704","I-94 & Merriman","PO# 7270",,,0
+"0705","6 Mile Rd from Haggerty Rd to Farmington Rd","STU 82457","88367A",,0
+"0706","Speed Limit Upgrade on Metro Freeways","NHG 84900","87573A","4980",0
+"0707","I-69/I-96","PO# 7278",,,0
+"0708","US-131 from West River Dr to 10 Mile","NH 41132","50758A","5239",0
+"0709","Max M. Fisher Memorial Highway",,,,0
+"0710","US-24 and Heiss Rd","BRT 58052","60119A",,0
+"0711","US-223 Monroe County - Sign Covers","NH 58021","85897A",,0
+"0712","M-17 from US-12BR to US-12","ST 81082","46086A",,0
+"0713","Maple Rd Round-a-bouts",,,,0
+"0714","M-150 from M-59 to Avon Rd","NH 63132","87373A",,0
+"0715","Woodward at Lincoln Ave","STH 63051","52170A",,0
+"0716","I-75 at Corunna Rd - Crane Rental",,,,0
+"0717","Van Dyke and 24 Mile","DOG 50458","89173A",,0
+"0718","Bridge on Baldwin Rd over CO Railroad","25012","83865A",,0
+"0719","11 Mile Rd from Greenfield to Woodward","DPSA 63459","89629A",,0
+"0720","Lapeer Rd from Court St to Belmont","STU 25402","84593A",,0
+"0721","Rest Area on I-94 near Belleville","IM 82021","74150A",,0
+"0722","Old M-14 and Ridge Rd","STH 82101","80373A",,0
+"0723","I-94 from M-40 to K-Zoo County Line","IM 80024","83935A","5150",0
+"0724","Carpenter Rd from Textile Rd to Ellsworth","HPSL 81161","86095A",,0
+"0725","M-155 over Shiawassee River","47121","78890A",,0
+"0726","I-496 in Lansing HSC Crane Rental",,,,0
+"0727","Romeo Plank Bike Path","DOG 50458","89320A",,0
+"0728","3M DG3 Ohio test","ODOT",,,0
+"0729","I-75 from US-31 to M-108","MH 16092","83360A","5085",0
+"0731","Taft Rd from 8 Mile to north city limit","HPSL 63459","100447A",,0
+"0732","I-75 Genesee County","IMG 25032","80450A","5118",0
+"0733","13 Mile and Ryan Rd","STH 50609","78261A",,0
+"0734","M-24 from Pratt Rd to I-69","NH 44011","55908A",,0
+"0735","Ambassador Bridge - Cantilever Removal",,,,0
+"0736","M-10 at M-5 and Temple Ave","EDA 82111","100003A",,0
+"0737","Lapeer and Belsay Rd","STH 25609","78224A",,0
+"0738","St Michael Cemetery",,,,0
+"0739","US-127 & Holt Rd","CM 33035","100261A",,0
+"0740","Lapeer National City Bank",,,,0
+"0741","Okemos Rd, Ingham County","STE 33010","73846A",,0
+"0742","Relocate Lead-In sign for Lamar",,,,0
+"0743","Industrial Row Dr & Meijer Dr in Troy",,,,0
+"0744","Walton Blvd from Lapeer Rd to Squirrel Rd","HPSL 63459","59926A",,0
+"0745","US-2 Iron and Dickinson Counties","NHG 84911","78798A",,0
+"0746","Various Locations Southwest Michigan","STG 84915","85872A",,0
+"0747","Bristol Rd from I-69 to Torrey Rd","HPSL 25402","87265A","5153",0
+"0748","I-94 at Verona Rd Bridge","BHI 13082","85631A",,0
+"0749","I-94 Rest Area Sandstone Twp","IM 38101","74151A",,0
+"0750","S Commerce Rd Bikepath","STE 63459","48935A",,0
+"0843","East St from Maple St to Elm Rd","STUL 63477","89587A",,0
+"0751","M-14 from Washtenaw County to Sheldon Rd","BIO6 82102","45711A",,0
+"0752","Northland St and Irene Ave.","PO# 06134-046",,,0
+"0753","Board of Water Commissioners","PO# 07154-005",,,0
+"0754","Miller Rd from Linden Rd to Ballenger Hwy","STU 25402","100987A",,0
+"0755","11 Mile and M-53 PO# 14764","50061","46103A",,0
+"0756","Oxbow Lake Rd","63459","85280A",,0
+"0757","M-63 & Higman Park Rd","BHT 11053","86740A",,0
+"0803","US-127 Gratiot County through Clare County","NHG 84914","80454A","5188",0
+"0804","I-94 at Dearing Rd","IM 38101","78896A","5294",0
+"0805","I-196 from 36th St to M-11","IM 41029","46274A","5187",0
+"0806","I-75 Monroe County - Auger and sheeting","IMG 58151","80654A",,0
+"0807","I-75 Ramps at Exit 279 - Bagley Twp","IM 69013","75004A","5295",0
+"0808","9 Mile Rd from Greenfield to Parklawn St","STU 63459","101127A",,0
+"0809","M-29 from I-94 to Baker Rd","STT 50072","45727A",,0
+"0810","US-31 from Shaw Rd to Grahm Rd","EBSL 24011","75455A",,0
+"0811","Dequindre Cut Greenway Project",,,,0
+"0812","Union Lake Road from Richardson Rd to Cooley Lake Rd","STU 63459","101075A",,0
+"0813","M-24 from Hi-Hill Rd to Moon Rd","STH 63112","84565A",,0
+"0814","Selfridge ANG",,"VGLZ 002048",,0
+"0815","US-31","NHG 84913","84905A","5229",0
+"0816","Auger for HSC I-375/I-75",,,,0
+"0817","US-10 from Sanford Lake to Bay County Line","NH 56044","60433A","5296",0
+"0818","Old US-27 from I-69 to Guinea Rd","ST 23812","75222A",,0
+"0819","I-96 and Wixom Rd","IM 63022","05892A",,0
+"0820","I-475","IM 25132","87256A",,0
+"0821","I-94 over Galien River","BRI 11015","55904A","5297",0
+"0822","Beck Rd and Ten Mile","CM 63022","101462A",,0
+"0823","River Dr from Shore Dr to Southfield Rd","DOG 82163","86182A",,0
+"0824","Howe Rd from Van Born Rd to Michigan Ave","STU 82457","101256A",,0
+"0825","I-94 from Allington Rd to Gratiot Ave","IM 77111","76906A","5287",0
+"0826","14 Mile Rd from Drake Rd to Farmington Rd","STU 63459","102179A",,0
+"0827","Central Rd over Batholomew Lake","BRT 12013","86383A",,0
+"0828","N Clinton St from Michigan Ave to Austin Ave","STUL 13427","89543A",,0
+"0829","14 Mile Rd from Farmington Rd to Orchard Lake Rd","CMG 63082","101445A",,0
+"0830","I-94 from I-196 to Friday Rd","IM 11017","60466A",,0
+"0831","Jefferson Ave from Altman Rd to M-29","STU 50458","102245A",,0
+"0832","I-75 over Millbocker/McCoy Rd","HPSL 69013","102144A","5298",0
+"0833","Ann Arbor Tr from Farmington Rd to Merriman Rd","HPSL 82457","102329A",,0
+"0834","PGA Championship",,,,0
+"0835","I-75 from Sibley Rd to Clark St - Augering","IMG 82191","84709A",,0
+"0836","Napier Ave at Langley Ave","STH 11069","100313A",,0
+"0837","Martin Rd from Rockwood Ave to Jefferson Ave","STU 50458","102311A",,0
+"0838","I-75 from Hotchkiss to US-10","IM 09034","84072A",,0
+"0839","3 Mile Rd at Fruitridge Ave","CM 41400","102389A",,0
+"0840","Fenton/Shiawassee & Rounds","07C0201",,,0
+"0841","Vanguard Dr","PO# 07-1040",,,0
+"0842","1st St from Greenwood Ave to Morell St","STUL 38409","83309A",,0
+"0730","Gateway","IM 82194","37795A",,0
+"0844","I-75 from Topinabee to Riggsville Rd","IM 16091","90279A","5306",0
+"0845","US-31 at M-20 GEAB PO# 103009","NH 64014","75075A",,0
+"0846","Kensington Trail","STE 63041","87706A",,0
+"0847","Bikepath along I-275 from Rouge River to US-12","STE 82292","34959A",,0
+"0848","I-75 Oakland County","IMG 63174","80569A","5328",0
+"0849","M-53 from 18 Mile to 24 Mile","NH 50011","80921A","5329",0
+"0850","Grosse Ile Municipal Airport","82540","103136A",,0
+"0851","Sterns Rd over I-75","BRI 58151","78967A","5516",0
+"0852","M-14 & Gotfredson Rd","81103","74709A",,0
+"0853","US-24 From Eureka Rd to Wal-Mart Driveway","CMG 52400","88014A DB",,0
+"0854","US-12 from Venoy to M-10","CMG 82061","88073A",,0
+"0855","I-69 from Lapeer Co Line to Miller Rd","IM 77024","74766A  DB","5459",0
+"0856","M-36 from Pettys Rd to Chilson Rd","CM 47041","87930A",,0
+"0857","M-57 at Elms Rd","PO 07-23",,,0
+"0608",,,,,0
+"0858","I-94 East of Lovers Lane","IM 39022","101451A",,0
+"0859","Mound Rd at General Dynamics","PO# 08-11-15",,,0
+"0860","US-127 from Ayers Rd to Floyd Ave","STH 38111","79899A",,0
+"0861","Tyler Rd between Bellville Rd and Beck Rd",,,,0
+"0862","M-24 at Drahner Road","STH 63112","80351A",,0
+"0863","Henry Ford Hospital","0040001001",,,0
+"0864","I-96 Carpool Lots at Beck and 12 Mile","IM 63022","102889A",,0
+"0865","M-35 Delta & Menominee Counties","STG 55031","85130A",,0
+"0866","26 Mile and I-94",,,,0
+"0867","Battle Creek Casino",,,,0
+"0868","Commerce Park, Grosse Ile",,,,0
+"0869","M-43 and Meridian Rd","CM 33082","100525A",,0
+"0870","11 Mile Street Name Poles",,,,0
+"0971","Polly Ann Trail","STE 63112","88912A",,0
+"0972","M-53 from 24 Mile to 27 1/2 Mile","NH 50013","76905A","5398",0
+"0973","I-69 from M-15 to M-24","BI08 44043","79776A","5462",0
+"0974","I-696 from M-97 to I-94","IM 50062","72400A","5412",0
+"0976","Ambassador Bridge",,,,0
+"0975","Nixon Rd and Huron Pkwy","CMG 81046","103485A",,0
+"0977","Lowes Rochester Hills",,,,0
+"0978","US-131, US-31, M-75","STG 84912","102324A",,0
+"0995","Harper Ave","STU 82457","104193A",,0
+"0996","M-99 from Calhoun County line to Adams Road","30012","74742A",,0
+"0997","US-12 over M-39","82062","83403A",,0
+"0998","I-675","73101","102691A","5437",0
+"0999","US-31 from State Line to US-12","BI06 11056","50757A","5492",0
+"0903","I-696, Halsted Rd. to Scotia Rd.","IM 63101","89759A","5519",0
+"0484",,,,,0
+"0904","East Grand Weight Limit Signs",,,,0
+"0905","Grand River Streetscape","DB",,,0
+"0906","I-94 Under Elm Rd","MER 38101","105448A","5503",0
+"0907","Arsenal Rd","STU 82457","103466A",,0
+"0908","M-28, M-183, I-75, US-2, and US-41","STG 84911","101748A",,0
+"0909","Martin Parkway Roundabouts",,,,0
+"0910","I-94 Oakland Dr to Lovers Lane","AR1 39022","105128A","5458",1
+"0911","Livernois Crosswalks",,,,0
+"0912","Crane rental - Baldwin Rd",,,,0
+"0913","M-37/M-46","AR1 61131","77964A",,0
+"0914","Hartland Towne Square","DB",,,0
+"0915","Broadway St-Marine City","STE 77475","102107A",,0
+"0916","Platt Rd from Ellsworth Rd to Textile Rd","STE 81076","83654A",,0
+"0917","Inkster Rd from Corona Dr to Ford Rd","STU 82457","106087A",,0
+"0979","I-94 from Helmer Rd to 6 1/2 Mile","IM 13081","75047A","5523",0
+"0980","MTA Bus Stop Signs","2009-03","DB",,0
+"0981","White Lake Rd","STU 63459","104666A",,0
+"0982","I-94 from West Ave to Sargent Rd","IM 38101","88258A","5463",0
+"0983","21st Street Port Huron","D05-0070",,,0
+"0984","Farmington Rd and Glenmuer","PO# 496478",,,0
+"0985","I-496 and Dunkle Rd","CM 33045","87150A","5425",0
+"0986","M-53 and 23 Mile Rd","CM 50013","101101A",,0
+"0987","North Hewitt Rd from Packard Rd to Clark Rd","STU 81075","104551A",,0
+"0988","HSC - Auger holes on I-496","PO# 7832",,,0
+"0989","HSC - Auger Holes on  M-99","PO# 7833",,,0
+"0990","HSC - Auger Holes on I-75","PO# 7835",,,0
+"0991","M-36 at Merrill Rd","47041","100482A",,0
+"0992","Ridge Road over Rouge River","MCS 82025","86343A",,0
+"0993","I-96 Carpool Lot at Fenton St","82122","87503A",,0
+"0994","US-31 Ottawa County","NHG 70013","88078A","5441",0
+"0918","Plymouth Rd and Gotfredson","STH 81069","105067A",,0
+"0919","Lyon Center Dr Roundabout",,,,0
+"0920","Various Streets, Port Huron","MX 77011","103238A",,0
+"0921","Square Lake Rd","AR1 63052","72404A","5520",0
+"0922","I-94 from Freer Rd to Parker Rd","AR1 81104","105792A","5521",0
+"0946","I-275 Ramp to 6 Mile Rd","CM 82125","100808A",,0
+"0923","Dickenson, Marquette, and Ontonangon Counties","STG 84911","102108A",,0
+"0924","I-196 Allegan and Ottawa Counties","70024","90148A","5497",0
+"0925","US-31 at Oceana Dr","PO# 013396",,,0
+"0926","Bellevue School sign",,,,0
+"0927","Vreeland Rd at Telegraph",,,,0
+"0928","Clinton River Trail","STE 63041","89100A",,0
+"0929","M-44---Canceled","STE 34081","87276A",,0
+"0930","Irish Rd","ARL 25049","106201A",,0
+"0931","I-75 Grayling","AR 20015","90248A","5522",0
+"0932","North Ann Arbor St","ARU 81471","106802A",,0
+"0933","Dettman Rd over I-94","BRI 38101","105439A","5517",0
+"0934","HSC I-196 BL and M-121 - Auger Holes","DB - HSC",,,0
+"0935","HSC - M-24","DB - HSC",,,0
+"0936","M-59 from Widetrack to Opdyke","AR1 63043","80915A","5534",0
+"0937","I-94 Guardrail","STH 11014","107167A",,0
+"0938","HSC I-275/8 Mile","DB - HSC",,,0
+"0939","St Clair Ave","ARU 82457","106821A",,0
+"0940","I-275","IMG 84917","84893A","5531",0
+"0941","I-96 from Wacousta Road to M-43","19022","45639A","5535, 5890",1
+"0942","US-24 south of M-153","CM 82053","100807A",,0
+"0943","Tyler Rd","PO 07154-122","DB",,0
+"0944","Maple Ave, Clio Rd, Hill Rd","STH 25609","104997A",,0
+"0945","US-24 at Telegraph","STH 63053","80318A","5597",0
+"0947","Various locations, in the Grayling TSC region","STG 84912","102317A",,0
+"0948","I-96/I-275","DB - HSC",,,0
+"0949","Old US-27 over I-69","STG 19043","49904A","5577",0
+"0950","Bagley St and 16th","DTE 202301N",,,0
+"0951","I-75 at Burt Rd","NHI 73171","89074A","5596",0
+"0952","Old US-23 & M-59","STT 47082","105678A",,0
+"0953","Florence Cement",,,,0
+"0954","Warren Rd","STU 82457","107486A",,0
+"0955","Oakwood Hospital Signs",,,,0
+"0956","M-84 and I-75","ARUL 09011","48271A","5599",1
+"0957","Allen Rd","STU 82457","106886A",,0
+"0958","M-60","STG 38061","105619A","5598",0
+"0959","US-24 from 8 Mile to I-696","NH 63031","84908A",,0
+"0960","Various - Bay Area","STG 84914","102172A",,0
+"0961","Merriman Rd","ARU 82457","106834A",,0
+"0962","I-94 from St. Clair Hwy to Allington Road","ARL 77111","80911A","5595",0
+"0985a","I-496 and Dunkle Rd","33084","79092A","5425",0
+"0963","I-196 from 71st St to 118th Ave","ARRA 03033","102158A",,0
+"0964","M-3","AR 50051","45733A",,0
+"0965","Saginaw St - Lansing","STE 33043","100539A",,0
+"1003","US-41","STG 84911","103255A",,0
+"1004","M-52 from Howell Rd to I-96","ST 33092","102688A",,0
+"1005","University of Michigan C&W Project","DB",,,0
+"1006","Direct Bill I-475 from I-75 to I-69","ARU 25132","44785A","5644",0
+"1007","M-106","ST 38051","84026A",,0
+"1074","Traffic signal modernization in Berrien, Cass, and Van Buren Counties","STG 84915","103605A",,0
+"1075","US-12 to South of I-94","STE 82291","106194A",,1
+"1076","M-8 - Auger","DB - HSC",,,0
+"1077","Inkster Rd from Ford Rd to Hines Dr","STU 82457","110476A",,0
+"1078","US-23 under 8 Mile Rd","MER 81075","111082A",,0
+"1079","J Drive over I-69","BHI 13073","106859A","5796",1
+"1080","I-696 from Mound Rd to Roseville","BHI 50061","106597A",,1
+"1081","M-59 from Opdyke to Crooks","NH 63043","55658A",,1
+"1082","I-94 and Main St","CMG 80024","107461A",,1
+"1083","I-94 and I-275","DB - HSC",,,0
+"1084","East Riverfront",,,,0
+"1085","M-59 and Crooks - Design Build","NH 63043","34242A","5895",1
+"1086","Auger - Telegraph Rd","DB - HSC",,,0
+"1087","M-59 and Dequindre","DB-Motor City",,,0
+"1088","US-127 at Page Ave and Grand River","BHN 38111","105893A","5928",1
+"1089","I-96 from Telegraph to M-39","HSC - DB","IMG 82122 105822A",,0
+"1090","Beaumont Hospital","DB - ASI","PO# 10604",,0
+"1103","3 bridges over I-94","BHI 11015","107158A",,1
+"1104","M-66 from Grand River to M-21","ST 34032","109051A",,1
+"1105","I-96 and Beck","DB-HSC",,,0
+"1106","M-19 from 31 Mile Rd to Division Rd","ST 50091","106542A",,1
+"1107","M-13 at Worth Rd","STH 06071","100193A",,0
+"1008","Rochester Rd and Wattles Rd","STU 63459","104678A",,0
+"1009","Wayne St","ARU 63459","104709A",,0
+"1010","Dearborn - Public Service Day - Direct Bill","RFQ 102641","0210 DB",,0
+"1011","Rawsonville Rd","STH 81609","105068A",,0
+"1012","Detroit Metro Airport Parking Garages","PO# 20100132","db",,0
+"1013","I-75 North of Crane Rd","NH 09034","87508A","5685",1
+"1014","Flint River Trail","ARE 25402","106146A",,1
+"1015","Shiawassee National Wildlife Refuge",,,,0
+"1016","I-696 from Nieman Rd to I-94","BHI 50062","83143A","5635",1
+"1017","ARRA Signs - Ann Arbor","DB",,,0
+"1018","Warren Rd and Lilley Rd","ARU 82457","106806A",,0
+"1019","WLNS Signs","PO# 000286",,,0
+"1020","Van Born Rd","ARU 82457","106838A",,0
+"1021","Dexter-Ann Arbor Rd","ARU 81406","107421A",,0
+"1022","I-96 from College Rd to Meridian Rd","IM 33084","81736A","5736/5902",1
+"1023","Direct Bill HSC - I-275 Auger","DB-HSC",,,0
+"1024","Inkster Rd from 9 Mile to 11Mile","ARU 63459","106779A",,0
+"1025","9 Mile Rd from Dequindre to Ryan","STU 50458","104722A",,0
+"1026","HSC - Benton Harbor","DB",,,0
+"1027","M-29 from S River Rd to Bunce Ave","STT 77052","106627A",,0
+"1028","I-196 and Diamond Ave","AR 41027","106428A",,0
+"1029","7 Mile Rd from John R to I-75","ARU 82400","107105A",,0
+"1030","Cooley Lake Rd from Hiller to Cass Elizabeth","ARU 63459","106767A",,0
+"1031","Rochester - Directional VIA Signage","20090358",,,0
+"1032","Parkdale Rd & Tienken Rd","MCS 63002","102634A",,1
+"1033","West Milham Ave","STUL 39405","89644A",,0
+"1034","Middlebelt Rd","ARU 82457","106836A",,1
+"1035","Joy Rd","ARU 82457","109585A",,0
+"1036","Various Locations - Lansing Area","STG 84916","103236A",,0
+"1037","I-196 and 44th St","AR 41029","106154A",,0
+"1038","Various Routes - Allegan County","STG 84915","103361A","5694",0
+"1039","Ray Road","ARU 63459","106772A",,0
+"1040","Sylvan Twp - Coliseum Dr","Direct Bill",,,0
+"1041","Direct Bill - Wesleyan Woods Campground",,,,0
+"1042","9 Mile Rd","ARU 50458","106737A",,0
+"1043","Mansfield St","ARU 81406","106805A",,0
+"1044","Van Dyke Ave","STE 50458","106956A",,0
+"1045","Grand River Ave","ARU 63457","109546A",,0
+"1046","Wayne Rd Ramps","ARU 82457","106799A",,0
+"1047","I-196","DB - HSC",,,0
+"1048","Isabella Rd","EDA 37522","108481A",,0
+"1049","Main St, Belleville","STE 82457","105731A",,0
+"1050","I-75 Off Ramp to Dearborn St","IM 82194","107338A",,0
+"1051","Ballenger Hwy","STU 25402","109298A",,0
+"1052","32nd St over US-131","NH 41131","102806A",,0
+"1053","US-41/M-28","AR1 52043","84231A",,0
+"1054","Clinton River Trail Bridge over US-24","ARE 63052","106024A",,0
+"1055","142nd Ave over US-131","HBOA 03112","103954A",,1
+"1056","Kipp Rd over US-127","NH 33032","87165A","5869",1
+"1057","Secretary of State","PO# 231N0200706",,,0
+"1058","M-44","CM 41051","109432A",,0
+"1059","Martin Luther King Ave","STU 25402","109287A",,1
+"1060","I-696 from Dequindre to Nieman","IMG 50061","105735A","5754",1
+"1061","St Joseph County","STG 84915","103392A",,0
+"1062","I-96 Brighton - Auger","DB - HSC",,,0
+"1063","Telegraph & 10 Mile","DB - J Ranck",,,0
+"1064","Lower Huron Metropark","DB - Pro-Line",,,0
+"1065","US-10","NHG 84914","105946A","5765",0
+"1066","US-31","DB - HSC",,,0
+"1067","I-94/I-75","DB - HSC",,,0
+"1068","I-94/Rawsonville","DB - HSC",,,0
+"1069","I-94/M-39","DB - HSC",,,0
+"1070","Old M-78","ST 76021","109532A",,1
+"1071","I-96 Rest Area At Grand Ledge","IM 19022","101605A",,0
+"1072","5 Mile and Middlebelt","DB - HSC",,,0
+"1073","Pontchartrain Ave to Hazelwood - Detroit","SUG 82457","108718A",,0
+"1128","US-12BR from Wiard Rd to Holmes Rd","STH 81132","103352A",,0
+"1129","DB - Henry Ford Hospital","DB",,,0
+"1130","I-96 from M-21 to Cascade Rd","CM 41025","109666A",,1
+"1131","Elizabeth St from Annapolis to Michigan Ave","STU 82457","111968A",,0
+"1132","M-5 Roundabout",,"RCOC# 50471",,1
+"1133","US-127 and McDevitt Rd","NH 38111","83396A",,1
+"1134","Lake Ave","STUL 61407","104278A",,1
+"1135","M-40 from CR 669 to 72nd Ave","EDA 80111","108014A",,1
+"1136","Saginaw St from Main St to Tuscola St","STUL 76482","88363A",,1
+"1137","Direct Bill - 4 streets over I-69","BHI 25085","89236A",,1
+"1138","Genesee Valley Trail","CMG 25400","111356A",,1
+"1139","Signal Upgrades, Genesee County","STH 25609","108807A",,0
+"1140","Vernor Hwy","ARU 82400","108658A",,1
+"1141","26 Mile Rd from Van Dyke Rd to M-53","EDCF 50544","112831A",,1
+"1142","Various Streets,  Lansing","STU 33400","112059A",,1
+"1143","Meadowbrook Rd","STU 63459","113092A",,0
+"1144","Lansing Rd - DB","DB - HSC",,,0
+"1145","M-14 - Direct Bill HSC","DB - HSC",,,0
+"1146","Washtenaw County","STH 81609","108862A",,1
+"1147","Indy - Mile Markers","T-31021-A",,"5940",1
+"1148","I-275 at I-94","IM 82291","100344A",,1
+"1149","Nine Mile Rd from Kelly Rd to I-94","STU 50458","104522A",,1
+"1108","U of M","PO#",,,0
+"1109","I-94/I-69 Port Huron","NH 77111","106466A","5838",1
+"1110","I-196 over Coloma Rd","BHI 11111","106108A",,0
+"1111","M-71 over I-69","BHI 76023","87169A",,1
+"1112","Suburban Showplace","PO#",,,0
+"1113","M-39","82192","100301A",,1
+"1114","I-69 from Miller Rd to Taylor Rd","IMG 77023","108625A","5864",0
+"1115","M-129, M-80, M-48, M-134","STG 84911","105742A",,1
+"1116","US-131 from 44th St to 36th St","NH 41131","87156A","5870",1
+"1117","I-675 from7th Ave to M-13","HPSL 73101","107496A","5863",1
+"1118","Direct Bill Motor City - I-75","DB - MC",,,0
+"1119","DB - 23 Mile","DB - HSC",,,0
+"1120","Otsego Lake Dr","STUL 69486","109102A",,0
+"1121","DB - Metro Airport","DB - HSC",,,0
+"1122","I-75 from Linwood to Pinconning","IM 09035","106856A","5865",1
+"1123","Veterans Memorial Hwy and I-675","HBOA 73101","79971A",,1
+"1124","M-59 from Rochester to Dequindre","ST 63043","106133A",,1
+"1125","US-23 Cable Rail","BHN 47013","102694A",,1
+"1126","I-96 and Whitneyville Ave","IM 41024","106669A",,1
+"1127","Judd Rd at Clark Rd","STL 82457","111203A",,0
+"1150","Stephens Rd from Flower St to Gratiot","STU 50458","112828A",,1
+"1151","Grand Trunk Railroad Bikepath","STE 70139","110777A",,1
+"1152","Blue Water Bridge","MBWB 77111","108187A",,1
+"1153","I-196 Berrien and Buren Counties","IMG 80012","109739A",,1
+"1154","I-69 @ Vernon Rd","DB",,,0
+"1155","M-28 and M-123","HSIP 17061","113084A",,1
+"1156","Merriman at 5 Mile and 6 Mile","STH 82609","108864A",,1
+"1157","Dequindre Rd from S Blvd to Auburn Rd","STU 65459","113819A",,1
+"1158","M-14 from Earhart Rd to County Line","NH 81103","100246A",,1
+"1159","DB - I-196 and Fulton","DB HSC",,,0
+"1160","South Haven Bike Path","STE 80499","111819A",,1
+"1161","DB - I-69 @ Bowman Rd","BHI 44044","108919A",,1
+"1162","Rochester Rd in Leonard","STU 83459","113759A",,1

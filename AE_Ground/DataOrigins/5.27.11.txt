@@ -1,0 +1,1 @@
+        dt.DefaultView.RowFilter = "jobNum = '" & jobNumber & "'ORDER BY Site"

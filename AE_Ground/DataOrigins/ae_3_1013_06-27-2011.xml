@@ -1,0 +1,143 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement xmlns="http://tempuri.org/ActionEntryDataSet.xsd">
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26765</ID>
+    <dpID>223397</dpID>
+    <jobNum>1013</jobNum>
+    <site>168-01</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26768</ID>
+    <dpID>223400</dpID>
+    <jobNum>1013</jobNum>
+    <site>168-02</site>
+    <payItemID>668</payItemID>
+    <code>8100120</code>
+    <description>Fdn, Wood Support, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26771</ID>
+    <dpID>223404</dpID>
+    <jobNum>1013</jobNum>
+    <site>169-01</site>
+    <payItemID>668</payItemID>
+    <code>8100120</code>
+    <description>Fdn, Wood Support, Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26774</ID>
+    <dpID>223406</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-01</site>
+    <payItemID>777</payItemID>
+    <code>8100053</code>
+    <description>Column Breakaway, W8 x 18</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26775</ID>
+    <dpID>223409</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-01</site>
+    <payItemID>751</payItemID>
+    <code>8100195</code>
+    <description>Sign Type I, Erect, Salv</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26776</ID>
+    <dpID>223407</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-01</site>
+    <payItemID>674</payItemID>
+    <code>8100200</code>
+    <description>Sign, Type  I, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26777</ID>
+    <dpID>223408</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-01</site>
+    <payItemID>667</payItemID>
+    <code>8100105</code>
+    <description>Fdn, Column Breakaway, Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26778</ID>
+    <dpID>223410</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-02</site>
+    <payItemID>1283</payItemID>
+    <code>8100126</code>
+    <description>Glare Screen Conn, Conc, Perforated Steel Square T</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26779</ID>
+    <dpID>223411</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-02</site>
+    <payItemID>777</payItemID>
+    <code>8100053</code>
+    <description>Column Breakaway, W8 x 18</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26781</ID>
+    <dpID>223414</dpID>
+    <jobNum>1013</jobNum>
+    <site>170-03</site>
+    <payItemID>668</payItemID>
+    <code>8100120</code>
+    <description>Fdn, Wood Support, Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+</DocumentElement>

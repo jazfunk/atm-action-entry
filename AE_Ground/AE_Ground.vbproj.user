@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>ftp://03294ad.netsolhost.com/www/ae/|ftp://03294ad.netsolhost.com/htdocs/ae/|http://03294ad.netsolhost.com/ae/|http://03294ad.netsolhost.com/htdocs/ae/</PublishUrlHistory>
+    <InstallUrlHistory>http://03294ad.netsolhost.com/ae/|http://www.actiontraffic.net/ae/|http://03294ad.netsolhost.com/htdocs/ae/</InstallUrlHistory>
+    <SupportUrlHistory>http://actionentry.actiontraffic.net|http://www.actiontraffic.net</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\</ReferencePath>
+  </PropertyGroup>
+</Project>

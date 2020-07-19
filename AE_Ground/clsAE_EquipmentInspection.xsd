@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="clsAE_EquipmentInspection" targetNamespace="http://tempuri.org/clsAE_EquipmentInspection.xsd" xmlns:mstns="http://tempuri.org/clsAE_EquipmentInspection.xsd" xmlns="http://tempuri.org/clsAE_EquipmentInspection.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="clsAE_EquipmentInspection" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="clsAE_EquipmentInspection" msprop:Generator_UserDSName="clsAE_EquipmentInspection" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtEquipInspection" msprop:Generator_UserTableName="dtEquipInspection" msprop:Generator_RowDeletedName="dtEquipInspectionRowDeleted" msprop:Generator_TableClassName="dtEquipInspectionDataTable" msprop:Generator_RowChangedName="dtEquipInspectionRowChanged" msprop:Generator_RowClassName="dtEquipInspectionRow" msprop:Generator_RowChangingName="dtEquipInspectionRowChanging" msprop:Generator_RowEvArgName="dtEquipInspectionRowChangeEvent" msprop:Generator_RowEvHandlerName="dtEquipInspectionRowChangeEventHandler" msprop:Generator_TablePropName="dtEquipInspection" msprop:Generator_TableVarName="tabledtEquipInspection" msprop:Generator_RowDeletingName="dtEquipInspectionRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="foreman" msprop:Generator_UserColumnName="foreman" msprop:Generator_ColumnPropNameInRow="foreman" msprop:Generator_ColumnVarNameInTable="columnforeman" msprop:Generator_ColumnPropNameInTable="foremanColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="equipID" msprop:Generator_UserColumnName="equipID" msprop:Generator_ColumnPropNameInRow="equipID" msprop:Generator_ColumnVarNameInTable="columnequipID" msprop:Generator_ColumnPropNameInTable="equipIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="location" msprop:Generator_UserColumnName="location" msprop:Generator_ColumnPropNameInRow="location" msprop:Generator_ColumnVarNameInTable="columnlocation" msprop:Generator_ColumnPropNameInTable="locationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="overview" msprop:Generator_UserColumnName="overview" msprop:Generator_ColumnPropNameInRow="overview" msprop:Generator_ColumnVarNameInTable="columnoverview" msprop:Generator_ColumnPropNameInTable="overviewColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="infraction" msprop:Generator_UserColumnName="infraction" msprop:Generator_ColumnPropNameInRow="infraction" msprop:Generator_ColumnVarNameInTable="columninfraction" msprop:Generator_ColumnPropNameInTable="infractionColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="truckInspection" msprop:Generator_UserColumnName="truckInspection" msprop:Generator_ColumnPropNameInRow="truckInspection" msprop:Generator_ColumnVarNameInTable="columntruckInspection" msprop:Generator_ColumnPropNameInTable="truckInspectionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="majorRepair" msprop:Generator_UserColumnName="majorRepair" msprop:Generator_ColumnPropNameInRow="majorRepair" msprop:Generator_ColumnVarNameInTable="columnmajorRepair" msprop:Generator_ColumnPropNameInTable="majorRepairColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="minorRepair" msprop:Generator_UserColumnName="minorRepair" msprop:Generator_ColumnPropNameInRow="minorRepair" msprop:Generator_ColumnVarNameInTable="columnminorRepair" msprop:Generator_ColumnPropNameInTable="minorRepairColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="noIncident" msprop:Generator_UserColumnName="noIncident" msprop:Generator_ColumnPropNameInRow="noIncident" msprop:Generator_ColumnVarNameInTable="columnnoIncident" msprop:Generator_ColumnPropNameInTable="noIncidentColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="allItemsPresent" msprop:Generator_UserColumnName="allItemsPresent" msprop:Generator_ColumnPropNameInRow="allItemsPresent" msprop:Generator_ColumnVarNameInTable="columnallItemsPresent" msprop:Generator_ColumnPropNameInTable="allItemsPresentColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="itemsMissing" msprop:Generator_UserColumnName="itemsMissing" msprop:Generator_ColumnPropNameInRow="itemsMissing" msprop:Generator_ColumnVarNameInTable="columnitemsMissing" msprop:Generator_ColumnPropNameInTable="itemsMissingColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="replaced" msprop:Generator_UserColumnName="replaced" msprop:Generator_ColumnPropNameInRow="replaced" msprop:Generator_ColumnVarNameInTable="columnreplaced" msprop:Generator_ColumnPropNameInTable="replacedColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:dtEquipInspection" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

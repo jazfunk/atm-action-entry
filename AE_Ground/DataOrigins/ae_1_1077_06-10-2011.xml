@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement xmlns="http://tempuri.org/ActionEntryDataSet.xsd">
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>1222</ID>
+    <dpID>250888</dpID>
+    <jobNum>1077</jobNum>
+    <site>01-01</site>
+    <payItemID>1087</payItemID>
+    <code>8107010</code>
+    <description>Misc Sign, Type B, Perm</description>
+    <dpQty>9</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>1223</ID>
+    <dpID>250889</dpID>
+    <jobNum>1077</jobNum>
+    <site>01-02</site>
+    <payItemID>1087</payItemID>
+    <code>8107010</code>
+    <description>Misc Sign, Type B, Perm</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>1224</ID>
+    <dpID>250890</dpID>
+    <jobNum>1077</jobNum>
+    <site>01-03</site>
+    <payItemID>1087</payItemID>
+    <code>8107010</code>
+    <description>Misc Sign, Type B, Perm</description>
+    <dpQty>9</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>1225</ID>
+    <dpID>250891</dpID>
+    <jobNum>1077</jobNum>
+    <site>01-04</site>
+    <payItemID>1087</payItemID>
+    <code>8107010</code>
+    <description>Misc Sign, Type B, Perm</description>
+    <dpQty>3.75</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>1226</ID>
+    <dpID>250892</dpID>
+    <jobNum>1077</jobNum>
+    <site>01-05</site>
+    <payItemID>1087</payItemID>
+    <code>8107010</code>
+    <description>Misc Sign, Type B, Perm</description>
+    <dpQty>6</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+</DocumentElement>

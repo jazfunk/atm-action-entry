@@ -1,0 +1,241 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement xmlns="http://tempuri.org/ActionEntryDataSet.xsd">
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26868</ID>
+    <dpID>206675</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-04</site>
+    <payItemID>628</payItemID>
+    <code>8100201</code>
+    <description>Sign, Type II, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26869</ID>
+    <dpID>206676</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-05</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26870</ID>
+    <dpID>206677</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-06</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26871</ID>
+    <dpID>206678</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-07</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26872</ID>
+    <dpID>206679</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-08</site>
+    <payItemID>628</payItemID>
+    <code>8100201</code>
+    <description>Sign, Type II, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26873</ID>
+    <dpID>206680</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-09</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>4</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26874</ID>
+    <dpID>206681</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-10</site>
+    <payItemID>628</payItemID>
+    <code>8100201</code>
+    <description>Sign, Type II, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26875</ID>
+    <dpID>206682</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-11</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26876</ID>
+    <dpID>206683</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-12</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>26877</ID>
+    <dpID>206684</dpID>
+    <jobNum>0956</jobNum>
+    <site>362-13</site>
+    <payItemID>776</payItemID>
+    <code>8100202</code>
+    <description>Sign Type III Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27200</ID>
+    <dpID>207008</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-02</site>
+    <payItemID>673</payItemID>
+    <code>8100181</code>
+    <description>Sign, Type IIIB</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27201</ID>
+    <dpID>207009</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-02</site>
+    <payItemID>619</payItemID>
+    <code>8100156</code>
+    <description>3# Steel Post</description>
+    <dpQty>12</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27202</ID>
+    <dpID>207010</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-03</site>
+    <payItemID>673</payItemID>
+    <code>8100181</code>
+    <description>Sign, Type IIIB</description>
+    <dpQty>4</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27203</ID>
+    <dpID>207011</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-03</site>
+    <payItemID>619</payItemID>
+    <code>8100156</code>
+    <description>3# Steel Post</description>
+    <dpQty>15</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27204</ID>
+    <dpID>207012</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-04</site>
+    <payItemID>673</payItemID>
+    <code>8100181</code>
+    <description>Sign, Type IIIB</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27205</ID>
+    <dpID>207013</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-05</site>
+    <payItemID>623</payItemID>
+    <code>8100177</code>
+    <description>Sign, Type IIIA</description>
+    <dpQty>9</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>3</foreman>
+    <entryDate>2011-06-27T00:00:00-04:00</entryDate>
+    <displayName>Paul Roth</displayName>
+    <ID>27206</ID>
+    <dpID>207014</dpID>
+    <jobNum>0956</jobNum>
+    <site>379-05</site>
+    <payItemID>619</payItemID>
+    <code>8100156</code>
+    <description>3# Steel Post</description>
+    <dpQty>29</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+</DocumentElement>

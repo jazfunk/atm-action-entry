@@ -1,0 +1,143 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement xmlns="http://tempuri.org/ActionEntryDataSet.xsd">
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2334</ID>
+    <dpID>244315</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-01</site>
+    <payItemID>777</payItemID>
+    <code>8100053</code>
+    <description>Column Breakaway, W8 x 18</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2335</ID>
+    <dpID>244318</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-01</site>
+    <payItemID>680</payItemID>
+    <code>8100175</code>
+    <description>Sign, Type IA</description>
+    <dpQty>152</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2336</ID>
+    <dpID>244317</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-01</site>
+    <payItemID>668</payItemID>
+    <code>8100120</code>
+    <description>Fdn, Wood Support, Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2337</ID>
+    <dpID>244316</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-01</site>
+    <payItemID>628</payItemID>
+    <code>8100201</code>
+    <description>Sign, Type II, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2338</ID>
+    <dpID>244322</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-02</site>
+    <payItemID>752</payItemID>
+    <code>8100196</code>
+    <description>Sign Type II, Erect, Salv</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2339</ID>
+    <dpID>244320</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-02</site>
+    <payItemID>674</payItemID>
+    <code>8100200</code>
+    <description>Sign, Type  I, Rem</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2340</ID>
+    <dpID>244321</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-02</site>
+    <payItemID>668</payItemID>
+    <code>8100120</code>
+    <description>Fdn, Wood Support, Rem</description>
+    <dpQty>2</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2341</ID>
+    <dpID>244319</dpID>
+    <jobNum>1065</jobNum>
+    <site>05-02</site>
+    <payItemID>621</payItemID>
+    <code>8100166</code>
+    <description>Post, Wood, 6 Inch By 8 Inch</description>
+    <dpQty>32</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2342</ID>
+    <dpID>244324</dpID>
+    <jobNum>1065</jobNum>
+    <site>06-01</site>
+    <payItemID>671</payItemID>
+    <code>8100133</code>
+    <description>Install MDOT Supplied Sign, Type III</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+  <qryMyDPToday>
+    <foreman>1</foreman>
+    <entryDate>2011-06-10T00:00:00-04:00</entryDate>
+    <displayName>Jeff King</displayName>
+    <ID>2344</ID>
+    <dpID>244325</dpID>
+    <jobNum>1065</jobNum>
+    <site>06-02</site>
+    <payItemID>671</payItemID>
+    <code>8100133</code>
+    <description>Install MDOT Supplied Sign, Type III</description>
+    <dpQty>1</dpQty>
+    <siteNotes />
+  </qryMyDPToday>
+</DocumentElement>
